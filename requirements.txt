@@ -2,3 +2,4 @@ pandas
 requests
 google-search-results
 python-dotenv
+bibtexparser

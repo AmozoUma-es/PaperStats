@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 import os
 import sys
-from serpapi import GoogleSearch
+from serpapi.google_search import GoogleSearch
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
